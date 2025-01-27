@@ -13,4 +13,4 @@ This project uses the Scapy library for network packet manipulation.
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://github.com/your-username/network-scanner.git
+   git clone https://github.com/GustasJuska/Network_scanner.git
