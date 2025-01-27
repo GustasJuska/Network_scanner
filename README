@@ -1,0 +1,16 @@
+# Network Scanner
+
+A simple Python-based network scanner that discovers devices in your local network using ARP (Address Resolution Protocol).
+
+## Features
+- Scans a specified IP range and returns a list of active devices with their IP and MAC addresses.
+- Supports specifying suspicious IPs to flag during the scan.
+
+## Requirements
+This project uses the Scapy library for network packet manipulation.
+
+## Installation
+
+1. **Clone the repository** (or download the project):
+   ```bash
+   git clone https://github.com/your-username/network-scanner.git
